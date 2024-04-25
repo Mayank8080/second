@@ -4,7 +4,6 @@ Library           SeleniumLibrary
 
 *** Variables ***
 ${LOGIN_URL}      https://kube-openpagedev-product.excelindia.com/sso/login?service=https%3A//kube-openpagedev-product.excelindia.com/wr/index.html&eulogin=true
-
 ${BROWSER}        Chrome
 
 *** Test Cases ***
